@@ -1,0 +1,146 @@
+:root {
+  --PrimaryColor: hsl(13, 83%, 45%);
+  --SecondaryColor: hsl(13, 80%, 60%);
+  --gradientColor: linear-gradient(to right, hsl(13, 80%, 60%), hsl(13, 83%, 45%));
+  --whiteColor: hsl(42, 11%, 83%);
+  --blackColor: hsl(195, 25%, 6%);
+  --textColor: hsl(240, 6%, 7%);
+  --whiteColorDeam: hsl(40, 24%, 78%);
+  --greyText: rgb(75, 72, 71);
+  --inputColor: rgb(239, 239, 239);
+  --bodyColor: rgb(240,240,246);
+  --cardBG: rgb(226, 219, 212);
+}
+
+.header {
+  position: fixed;
+  display: flex;
+  padding: 1rem;
+  align-items: center;
+  justify-content: space-between;
+  background: var(--whiteColorDeam);
+  width: 100%;
+  z-index: 1000;
+  box-shadow: 0 2px 4px rgba(2, 15, 29, 0.151);
+}
+.header .logo {
+  color: var(--blackColor);
+  font-weight: 600;
+  cursor: pointer;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+.header .logo img {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  top: -3rem;
+  border: 0;
+  outline: 0;
+}
+@media screen and (max-width: 768px) {
+  .header .navBar {
+    position: absolute;
+    background: var(--whiteColorDeam);
+    height: -webkit-max-content;
+    height: -moz-max-content;
+    height: max-content;
+    width: 80%;
+    border-radius: 1rem;
+    top: -500rem;
+    left: 50%;
+    padding: 1rem;
+    transform: translate(-50%);
+    z-index: 2000;
+    box-shadow: 0 2px 4px rgba(2, 15, 29, 0.904);
+    transition: 0.5s ease-in-out;
+  }
+  .header .navBar .navLists {
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    margin: auto;
+    padding: 0.5rem 0;
+  }
+  .header .navBar .navLists .navItem {
+    padding: 0.5rem 0;
+  }
+  .header .navBar .navLists .navItem .navLink {
+    font-weight: 500;
+    color: var(--textColor);
+    font-size: 0.9rem;
+  }
+  .header .navBar .navLists .navItem .navLink:hover {
+    color: var(--PrimaryColor);
+  }
+  .header .activeNavbar {
+    top: 5rem;
+  }
+  .header .btn {
+    margin-top: 1rem;
+  }
+  .header .btn a {
+    font-weight: 600;
+    color: var(--blackColor);
+  }
+  .header .btn:hover a {
+    color: var(--whiteColor);
+  }
+  .header .closeNavbar {
+    position: absolute;
+    top: 1rem;
+    right: 1.5rem;
+    color: var(--PrimaryColor);
+  }
+  .header .closeNavbar:hover {
+    color: var(--greyText);
+  }
+}
+
+.toggleNavbar .icon {
+  font-size: 25px;
+  color: var(--PrimaryColor);
+}
+.toggleNavbar:hover:icon {
+  color: var(--SecondaryColor);
+}
+
+@media screen and (min-width: 769px) {
+  .toggleNavbar, .closeNavbar {
+    display: none;
+  }
+  .header {
+    padding: 1.5rem 2rem;
+  }
+  .navBar .navLists {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+  }
+  .navBar .navLists .navItem .navLink {
+    color: var(--textColor);
+    padding: 0 0.45rem;
+    font-size: 0.9rem;
+    font-weight: 500;
+  }
+  .navBar .navLists .navItem .navLink:hover {
+    color: var(--PrimaryColor);
+  }
+  .navBar .navLists .navItem .btn {
+    color: var(--whiteColor);
+    font-weight: 500;
+  }
+}
+@media screen and (min-width: 960px) {
+  .header .navBar .navLists .navItem {
+    padding: 0 0.7rem;
+  }
+}
+@media screen and (min-width: 1240px) {
+  .header {
+    padding: 1rem 8.5rem;
+  }
+}
+/*# sourceMappingURL=navbar.css.map */
