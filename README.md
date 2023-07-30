@@ -2,7 +2,7 @@
 
 The Safari.Travel website is a simple front-end website that displays different safari places one could take to travel Kenya. This being my first react Project, I did not focus on back-end or functionality but rather the front-end or the overview of the site.
 In this READMe, I will add several screenshots of the website and add a link to the videos of the deployment of the website.
-In this project, I used HTML, CSS and/or SASS, JavaScript and React Node. The Wesbsite is user responsive to different screens as will be shown below.
+In this project, I used HTML, CSS and/or SCSS, JavaScript and React Node. The Wesbsite is user responsive to different screens as will be shown below.
 In the components section of the site, I used four components or sections of the main page which are the:
     1. The Navigation Bar (NAVBAR) 
     2. The Home Component
