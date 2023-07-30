@@ -1,70 +1,21 @@
-# Getting Started with Create React App
+**THE SAFARI.TRAVEL WEBSITE**
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The Safari.Travel website is a simple front-end website that displays different safari places one could take to travel Kenya.
+In this READMe. I will add several screenshots of the website and furthermore add links to the videos of the deployment of the website.
+In this project, I used HTML, CSS or SASS, JavaScript and React Node. The Wesbsite is user responsive to different screens as will be shown below.
+In the component section of the site, I used four components or sections of the main page which are the:
+    1. The Navigation Bar (NAVBAR) 
+    2. The Home Component
+    3. The Main Component
+    4. The Footer Component
 
-## Available Scripts
+Functionality:
+As mentioned earlier, I focused mainly on the front-end development of the website and therefore, the website does not do much. This is my first project using react after familiariing with it and more is still to be achieved. 
 
-In the project directory, you can run:
+Screen Responsiveness:
+The Safari website is responsive to the different screen types available where it adjusts in accordance to ant screen that it might be used on which is critical for the user experience of any customer. As will be noticed over the videos that i will link, the website will change it's appearance whenever adjusted to whatever screen; whether a smartphone, a tablet, an  ipod, a laptop or even a desctop screen.
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Video Links:
+ This is a link that shows the behaviours of the website as well as how it looks like. I hope you enjoy
+  Link:
+     https://drive.google.com/drive/folders/1IvBT_vlMAH47JE72y5TS8hfCdKu6zgA_?usp=drive_link
