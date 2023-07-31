@@ -36,7 +36,7 @@ Video and Screenshot Links:
  This is a link that directs you to the videos and screenshots which show the attributes and responsiveness of the website as well as it's oversight. I hope you enjoy.
   Video Link:
          
-         https://drive.google.com/drive/folders/1IvBT_vlMAH47JE72y5TS8hfCdKu6zgA_?usp=drive_link
-
+            https://drive.google.com/drive/folders/1IvBT_vlMAH47JE72y5TS8hfCdKu6zgA_?usp=sharing
+         
   Screenshots links:
       they are in the **SAFARI TRAVELS** directory
