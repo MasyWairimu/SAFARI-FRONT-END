@@ -39,5 +39,4 @@ Video and Screenshot Links:
          https://drive.google.com/drive/folders/1IvBT_vlMAH47JE72y5TS8hfCdKu6zgA_?usp=drive_link
 
   Screenshots links:
-
-          
+      they are in the **SAFARI TRAVELS** directory
