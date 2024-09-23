@@ -1,8 +1,9 @@
 **THE SAFARI.TRAVEL WEBSITE**
 
 The Safari.Travel website is a simple front-end website that displays different safari places one could take to travel Kenya. This being my first react Project, I did not focus on back-end or functionality but rather the front-end or the overview of the site.
-In this READMe, I will add links to the videos and screenshots of the deployment of the website. The screenshots firectory is in the **Safari Travels directory**
-In this project, I used HTML, CSS and/or SCSS, JavaScript and React Node. The Wesbsite is user responsive to different screens as will be shown below.
+In this READMe, I will add links to the videos and screenshots of the deployment of the website. The screenshots directory is in the **Safari Travels directory**
+In this project, I used HTML, CSS and/or SCSS, JavaScript and React Node. The Wesbsite is user responsive to different screens as will be shown below. In addition, you can find the project here:
+*https://masywairimu.github.io/SAFARI-FRONT-END/*
 
 The code of the website is found in the **src directory** which is further split inro two other directories which are:-
 
