@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SAFARI-FRONT-END/static/css/main.14b6b2c2.css",
+    "main.js": "/SAFARI-FRONT-END/static/js/main.56343134.js",
+    "static/media/lion.mp4": "/SAFARI-FRONT-END/static/media/lion.263b513a83037a757e0a.mp4",
+    "static/media/elephants.mp4": "/SAFARI-FRONT-END/static/media/elephants.859da8498a2d7052b6d0.mp4",
+    "static/media/mtKenya.jpg": "/SAFARI-FRONT-END/static/media/mtKenya.172665668ecf6de904d3.jpg",
+    "static/media/giraffe.jpg": "/SAFARI-FRONT-END/static/media/giraffe.6216ffb450b1c5d3cdb1.jpg",
+    "static/media/mombasa.jpg": "/SAFARI-FRONT-END/static/media/mombasa.fd3dacbb09c5d9124591.jpg",
+    "static/media/Lake Nakuru.jpg": "/SAFARI-FRONT-END/static/media/Lake Nakuru.d9c793562fad5a2fd053.jpg",
+    "static/media/karen.jpeg": "/SAFARI-FRONT-END/static/media/karen.63cebf87f2db1577be17.jpeg",
+    "static/media/maasaiMara.jpeg": "/SAFARI-FRONT-END/static/media/maasaiMara.2f89ee03b9ffc2cfdb80.jpeg",
+    "static/media/amboseliPark.jpeg": "/SAFARI-FRONT-END/static/media/amboseliPark.504570a54176bcd983aa.jpeg",
+    "index.html": "/SAFARI-FRONT-END/index.html",
+    "main.14b6b2c2.css.map": "/SAFARI-FRONT-END/static/css/main.14b6b2c2.css.map",
+    "main.56343134.js.map": "/SAFARI-FRONT-END/static/js/main.56343134.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14b6b2c2.css",
+    "static/js/main.56343134.js"
+  ]
+}
